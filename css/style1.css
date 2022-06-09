@@ -1,0 +1,164 @@
+
+.a{
+    padding-left: 49px;    padding-top: 6px;
+}
+.b{
+    position: relative; left: 21px; bottom: 5px;
+}
+
+.d{
+    position: absolute;
+    top: 74px;
+    right: 389px;
+}
+.p{
+    position: absolute;
+    left: 946px;
+    top: 79px;
+}
+.y{
+    position: absolute;
+    left: 975px;
+    top: 79px;
+    
+}
+.e{
+    position: relative; 
+    top: 9px; right: 30px;
+}
+.f{
+    position: relative;
+    bottom: 15px;
+    right: 13px;
+}
+.g{
+    position: relative;
+    bottom: 5px;
+    right: 15px;
+}
+.h{
+    position: relative;
+    bottom: 10px;
+    right: 31px;
+}
+.j{
+    position: relative;
+    right: 24px;
+    top: 8px;
+}
+.k{
+    position: relative;
+    left: -4px;
+}
+.expres{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: x-small;
+}
+.round1{
+    position: relative;
+    bottom: 65px;
+    left: 127px;
+   
+}
+.roll1{
+    position: relative;
+    bottom: 124px;
+    left: 138px;
+}
+.Request1{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: x-small;
+}
+.round2{
+    position: relative;
+    bottom: 65px;
+    left: 127px;
+   
+}
+.roll2{
+    position: relative;
+    bottom: 127px;
+    left: 140px;
+}
+.request2{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: x-small;
+}
+.roll3{
+    position: relative;
+    bottom: 128px;
+    left: 143px;
+}
+.round4{
+    width: 182px;
+    padding-top: 21px;
+    left: 86px;
+    position: relative;
+}
+.round5{
+    margin-left: 293px;
+    position: relative;
+    width: 184px;
+    bottom: 183px;
+    right: 209px;
+}
+
+.plan{
+    position: relative;
+    left: 117px;
+    bottom: 296px;
+}
+.your{
+    position: relative;
+    bottom: 297px;
+    left: 117px;
+}
+.up{
+    position: relative;
+    bottom: 231px;
+    left: 6px;
+}
+.log{
+    position: relative;
+    left: 49px;
+    top: 19px;
+}
+.matches{
+    font-size: 16px;
+    position: relative;
+    right: 16px;
+    top: 8px;
+}
+.view{
+    position: relative;
+    top: 38px; 
+}
+
+.arial{
+    position: relative;
+    top: 19px;
+    right: 28px;
+}
+.profile{
+    position: relative;
+    right: 29px;
+}
+.profile1{
+    position: relative;
+    right: 46px;
+}
+.tic{
+    position: relative;
+    bottom: 16px;
+    left: 3px;
+}
+.upnow{
+    position: relative;
+    bottom: 186px;
+    left: 185px;
+}
+.total{
+    position: relative;
+    top: 27px;
+    left: 49px;
+}
